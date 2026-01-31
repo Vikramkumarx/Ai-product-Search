@@ -9,9 +9,11 @@ app_file: app.py
 pinned: false
 ---
 
-# 🧠 AI Product Expert System (India Edition)
+# 🧠 AI Expert: Vector Search Engine
 
-This is a **Text-Only AI Expert System** that helps users find the best products based on detailed specifications and intelligent ranking.
+[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-blueviolet?style=for-the-badge)](https://huggingface.co/spaces/DeSeRtSoUl/Ai-Product-search)
+
+This is a **High-Performance AI Expert System** that helps users find the best products using Semantic Vector Search and intelligent ranking.
 
 ## ✨ Features
 - **AI Best Choice**: Automatically highlights the best product based on specs & rating.
