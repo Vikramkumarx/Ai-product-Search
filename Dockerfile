@@ -1,23 +1,40 @@
-# Use AWS Lambda Python base image
-FROM public.ecr.aws/lambda/python:3.9
+# Build Stage for Next.js
+FROM node:20-slim AS frontend-builder
+WORKDIR /app/frontend
+COPY frontend/package*.json ./
+RUN npm install
+COPY frontend/ ./
+RUN npm run build
 
-# Install system dependencies if any (none for this simplified version)
+# Final Stage: Python Backend
+FROM python:3.11-slim
+WORKDIR /app
 
-# Copy requirements file
-COPY requirements.txt ${LAMBDA_TASK_ROOT}
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
 
-# Install Python dependencies
-# Note: sentence-transformers and torch are heavy.
-# In production, use --no-cache-dir to save space.
-RUN pip install --no-cache-dir -r requirements.txt
+# Copy backend files
+COPY backend/requirements.txt ./backend/
+RUN pip install --no-cache-dir -r backend/requirements.txt
 
-# Copy function code
-COPY lambda_handler.py ${LAMBDA_TASK_ROOT}
+# Copy everything else
+COPY . .
 
-# Copy model cache (Optional but recommended to bake in model)
-# For this demo, the model downloads on first run (Warm Start).
-# To bake it in, run a script here to download 'paraphrase-multilingual-MiniLM-L12-v2' to a local folder
-# and set SENTENCE_TRANSFORMERS_HOME.
+# Copy built frontend from builder stage
+COPY --from=frontend-builder /app/frontend/out ./frontend/out
 
-# Set the CMD to your handler
-CMD [ "lambda_handler.lambda_handler" ]
+# Pre-download the AI model to save time during startup
+RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
+
+# Set environment variables
+ENV PORT=7860
+ENV NODE_ENV=production
+
+# Hugging Face Spaces uses 7860 by default
+EXPOSE 7860
+
+# Run the FastAPI server
+# Since main.py serves static files, this will host both API and UI
+CMD ["python", "backend/main.py"]

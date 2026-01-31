@@ -4,7 +4,7 @@ import random
 def get_price(name, category):
     name = name.lower()
     
-    # --- Electronics (Laptops) ---
+    # --- Electronics (Laptops/PCs) ---
     if 'macbook air' in name: return random.randint(65000, 95000)
     if 'macbook pro' in name: return random.randint(159900, 250000)
     if 'xps' in name: return random.randint(120000, 180000)
@@ -15,49 +15,48 @@ def get_price(name, category):
     if 'zephyrus' in name: return random.randint(140000, 200000)
     if 'victus' in name: return random.randint(58000, 85000)
     if 'tuf gaming' in name: return random.randint(55000, 80000)
-    if 'g15' in name: return random.randint(65000, 90000)
-    if 'pavilion' in name: return random.randint(55000, 75000)
-    if 'ideapad' in name: return random.randint(35000, 60000)
-    if 'vivobook' in name: return random.randint(40000, 65000)
-    if 'inspiron' in name: return random.randint(42000, 68000)
-    if 'galaxy book' in name: return random.randint(70000, 120000)
-    if 'zenbook' in name: return random.randint(85000, 130000)
+    if 'predator' in name: return random.randint(90000, 150000)
+    if 'nitro' in name: return random.randint(55000, 85000)
+    if 'titan' in name: return random.randint(250000, 400000)
+    if 'stealth' in name: return random.randint(150000, 250000)
     
     # --- Electronics (Phones) ---
     if 'iphone 15' in name: return random.randint(72000, 150000)
     if 'iphone 14' in name: return random.randint(58000, 70000)
     if 'iphone 13' in name: return random.randint(48000, 55000)
+    if 'pixel 8' in name: return random.randint(70000, 85000)
+    if 'pixel 7' in name: return random.randint(45000, 55000)
     if 's23 ultra' in name: return random.randint(95000, 115000)
     if 'z fold' in name: return random.randint(130000, 160000)
-    if 's21 fe' in name: return random.randint(29000, 35000)
+    if 'oneplus' in name: return random.randint(35000, 65000)
+    if 'realme' in name: return random.randint(15000, 35000)
+    if 'xiaomi' in name: return random.randint(12000, 40000)
     
-    # --- Electronics (Cameras/Audio) ---
+    # --- Electronics (Audio/Video/Photo/Watches) ---
     if 'alpha' in name: return random.randint(180000, 250000)
-    if 'eos r10' in name: return random.randint(65000, 85000)
-    if 'eos 1500d' in name: return random.randint(35000, 42000)
+    if 'lumix' in name: return random.randint(70000, 150000)
+    if 'hd 660' in name: return random.randint(35000, 45000)
+    if 'flip 6' in name: return random.randint(9000, 12000)
+    if 'boombox' in name: return random.randint(25000, 35000)
     if 'wh-1000xm5' in name: return random.randint(24000, 29000)
-    if 'airpods' in name: return random.randint(18000, 25000)
-    if 'playstation' in name: return random.randint(45000, 55000)
-    if 'bravia' in name: return random.randint(60000, 150000)
-    if 'rockerz' in name: return random.randint(1200, 2500)
-    if 'airdopes' in name: return random.randint(999, 1500)
-    if 'stone' in name: return random.randint(1500, 3000)
+    if 'fastrack' in name: return random.randint(1500, 5000)
+    if 'titan' in name: return random.randint(3000, 15000)
+    if 'casio' in name: return random.randint(2000, 25000)
+    if 'fossil' in name: return random.randint(8000, 18000)
     
     # --- Fashion ---
-    if 'jordan' in name: return random.randint(12000, 18000)
-    if 'ultraboost' in name: return random.randint(11000, 17000)
-    if 'rs-x' in name: return random.randint(6000, 9000)
-    if 'woodland' in name: return random.randint(3500, 6000)
-    if 'red tape' in name: return random.randint(1500, 4000)
-    if 'jacket' in name: return random.randint(2500, 5000)
+    if '501' in name: return random.randint(3500, 6000) # Levi's
+    if 'oversized' in name: return random.randint(800, 2500) # H&M/Zara
+    if 'leather' in name: return random.randint(4000, 8000)
+    if 'running' in name: return random.randint(2000, 15000)
+    if 'bata' in name: return random.randint(800, 3500)
     
     # --- Groceries ---
+    if 'maggi' in name: return random.randint(15, 150)
+    if 'ketchup' in name: return random.randint(100, 250)
+    if 'biscuit' in name: return random.randint(20, 100)
+    if 'coffee' in name: return random.randint(300, 800)
     if 'ghee' in name: return random.randint(500, 800)
-    if 'oil' in name: return random.randint(150, 300)
-    if 'soap' in name: return random.randint(40, 80)
-    if 'paste' in name: return random.randint(80, 200)
-    if 'cream' in name: return random.randint(150, 300)
-    if 'liquid' in name: return random.randint(150, 300) # Dettol/Savlon
 
     # Generic Fallbacks (Safety Net)
     if category == 'Electronics': return random.randint(50000, 100000) # SAFE HIGH DEFAULT
@@ -94,6 +93,10 @@ def get_specs(category, name):
     elif 'savlon' in name_lower: specs = ["Type: Antiseptic Liquid", "Volume: 1000ml", "Action: Kills 99.9% Germs", "Usage: First Aid"]
     elif 'dettol' in name_lower: specs = ["Type: Antiseptic Liquid", "Volume: 500ml", "Action: Disinfectant", "Usage: Multi-Purpose"]
     
+    elif any(x in name_lower for x in ['fastrack', 'titan', 'casio', 'fossil', 'watch']):
+        specs = ["Type: Analog/Digital", "Water Resistance: 50m", "Warranty: 2 Years", "Material: Stainless Steel/Silicone"]
+        if 'smart' in name_lower: specs = ["Display: AMOLED", "Features: SPO2/Heart Rate", "Battery: 7 Days", "GPS: Built-In"]
+    
     # Generic
     elif category == 'Fashion': specs = ["Material: Premium Fabric/Leather", "Fit: Regular Fit", "Quality: High", "Wash: Machine Wash"]
     else: specs = ["Quality: Certified", "Warranty: 1 Year"]
@@ -110,23 +113,48 @@ def generate_products():
             'HP': ['Pavilion 15', 'Spectre x360', 'Victus Gaming', 'Deskjet Ink Advantage'],
             'Lenovo': ['ThinkPad X1 Carbon', 'IdeaPad Slim 3', 'Legion 5 Pro', 'Tab M10'],
             'Asus': ['Vivobook 16X', 'TUF Gaming F15', 'ROG Zephyrus G14', 'Zenbook S 13'],
+            'Acer': ['Predator Helios', 'Nitro 5', 'Swift Go', 'Aspire 5'],
+            'MSI': ['Titan GT77', 'Stealth GS66', 'Katana GF66', 'Modern 14'],
+            'Google': ['Pixel 8 Pro', 'Pixel 7a', 'Pixel Watch 2', 'Pixel Buds Pro'],
+            'OnePlus': ['OnePlus 11 5G', 'OnePlus Nord CE 3', 'OnePlus Open Fold'],
+            'Nothing': ['Phone (2)', 'Phone (1)', 'Nothing Ear (2)'],
+            'Realme': ['Realme GT 2 Pro', 'Realme Narzo 60', 'Realme 11 Pro+'],
+            'Xiaomi': ['Xiaomi 13 Pro', 'Redmi Note 12', 'Mi Pad 6'],
+            'Vivo': ['Vivo X90 Pro', 'Vivo V27', 'Vivo T2x 5G'],
+            'Oppo': ['Oppo Reno 10 Pro', 'Oppo F23', 'Oppo Find N3 Flip'],
+            'JBL': ['Flip 6 Speaker', 'Boombox 3', 'Live 660NC'],
+            'Sennheiser': ['HD 660S2', 'Momentum 4', 'CX Plus'],
+            'Panasonic': ['Lumix S5II', 'Lumix GH6', 'Smart TV 4K'],
+            'Nikon': ['Z9 Mirrorless', 'Zfc Retro', 'D850 DSLR'],
             'Canon': ['EOS R10 Mirrorless', 'EOS 1500D DSLR', 'Pixma G3000 Printer'],
+            'Fastrack': ['Limitless FS1 Smartwatch', 'Fastrack Reflex Beat', 'Stunners Analog Watch'],
+            'Titan': ['Titan Neo IV Analog', 'Titan Raga Viva', 'Titan Smart 3'],
+            'Casio': ['G-Shock GA-2100', 'Enticer Analog', 'Vintage Digital Watch'],
+            'Fossil': ['Gen 6 Smartwatch', 'Grant Chronograph', 'Machine Leather Watch'],
             'Boat': ['Rockerz 450', 'Airdopes 141', 'Xtend Smartwatch', 'Stone 350 Speaker']
         },
         'Fashion': {
             'Nike': ['Air Jordan 1', 'Air Force 1', 'Dri-Fit T-Shirt'],
             'Adidas': ['Ultraboost Light', 'Stan Smith', 'Originals Track Jacket'],
+            'Levi\'s': ['501 Original Jeans', 'Sherpa Trucker Jacket', 'Graphic T-Shirt'],
+            'H&M': ['Oversized Hoodie', 'Relaxed Fit Jeans', 'Cotton T-Shirt'],
+            'Zara': ['Faux Leather Jacket', 'Slim Fit Suit', 'Summer Shirt'],
+            'Bata': ['Formal Leather Shoes', 'Casual Loafers', 'Hush Puppies'],
             'Red Tape': ['Formal Oxfords', 'Retro Sneakers', 'Slim Fit Jeans'],
             'Woodland': ['Camel Leather Boots', 'Casual Loafers'],
             'Puma': ['RS-X Sneakers', 'Motorsport T-Shirt']
         },
         'Groceries': {
+            'Nestle': ['Maggi Masala Noodles', 'Nescafe Classic', 'KitKat Share Bag'],
+            'Britannia': ['Good Day Biscuits', 'Marie Gold', 'Milk Bikis'],
+            'ITC': ['Aashirvaad Ghee', 'Sunfeast Dark Fantasy', 'Bingo Mad Angles'],
+            'Tata': ['Premium Tea', 'Salt', 'Sampann Pulses'],
+            'Dabur': ['Chyawanprash', 'Honey', 'Red Paste'],
             'Savlon': ['Antiseptic Liquid', 'Moisturizing Soap'],
             'Dettol': ['Antiseptic Liquid', 'Liquid Handwash'],
             'Boro Plus': ['Antiseptic Cream', 'Body Lotion'],
             'Colgate': ['Strong Teeth Paste', 'MaxFresh Red Gel'],
             'Amul': ['Salted Butter', 'Taaza Milk', 'Processed Cheese Block'],
-            'Tata': ['Premium Tea', 'Salt'],
             'Maggi': ['2-Minute Masala Noodles']
         }
     }
@@ -136,13 +164,13 @@ def generate_products():
     for category, brands in models.items():
         for brand, items in brands.items():
             for item in items:
-                if any(x in item for x in [brand, 'iPhone', 'Galaxy', 'MacBook']):
+                if any(x in item for x in [brand, 'iPhone', 'Galaxy', 'MacBook', 'Pixel']):
                     final_name = item
                 else:
                     final_name = f"{brand} {item}"
                 
-                # Generate copies
-                for _ in range(12): 
+                # Generate copies (Increased for 1500+ items)
+                for _ in range(18): 
                     price = get_price(final_name, category)
                     price = (price // 100) * 100 + random.choice([0, 99]) # Round off
                     
