@@ -138,4 +138,4 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue"), title="AI Product Exper
     """)
 
 if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0", server_port=7860)
+    demo.launch(server_name="0.0.0.0", server_port=7860, share=True)

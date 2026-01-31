@@ -4,19 +4,29 @@ import sqlite3
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-# Expert Text Model
 MODEL_NAME = 'all-MiniLM-L6-v2'
-if 'model' not in globals():
-    try:
-        print(f"Loading Expert Model: {MODEL_NAME}...")
-        model = SentenceTransformer(MODEL_NAME)
-    except Exception as e:
-        print(f"Error loading model: {e}")
-        model = None
+_model_cache = None
 
-DB_FILE = 'product_search.db'
+def get_model():
+    global _model_cache
+    if _model_cache is None:
+        print(f"Lazy Loading Model: {MODEL_NAME}...")
+        try:
+            _model_cache = SentenceTransformer(MODEL_NAME)
+            print("Model loaded successfully.")
+        except Exception as e:
+            print(f"Error loading model: {e}")
+            return None
+    return _model_cache
+
+# Use Absolute Path for Cloud Compatibility
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_FILE = os.path.join(BASE_DIR, 'product_search.db')
 
 def get_db_connection():
+    if not os.path.exists(DB_FILE):
+        print(f"CRITICAL ERROR: DB File not found at {DB_FILE}")
+        return None
     return sqlite3.connect(DB_FILE)
 
 def cosine_similarity(v1, v2):
@@ -47,6 +57,7 @@ def lambda_handler(event, context):
         
         # Encode
         query_vector = None
+        model = get_model()
         if search_query and model:
             query_vector = model.encode(search_query)
 
