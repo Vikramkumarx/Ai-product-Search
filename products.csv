@@ -1,0 +1,829 @@
+product_id,product_name,category,price,rating,specifications
+1,iPhone 15 Pro,Electronics,142900,4.7,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+2,Sony WH-1000XM5 Headphones,Electronics,28499,4.8,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+3,Apple AirPods Pro 2,Electronics,19400,4.7,Quality: Certified | Warranty: 1 Year
+4,Red Tape Retro Sneakers,Fashion,3399,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+5,Apple AirPods Pro 2,Electronics,23799,4.4,Quality: Certified | Warranty: 1 Year
+6,Savlon Moisturizing Soap,Groceries,0,4.2,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+7,Amul Taaza Milk,Groceries,100,4.1,Quality: Certified | Warranty: 1 Year
+8,Galaxy Watch 6,Electronics,77399,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+9,Savlon Antiseptic Liquid,Groceries,200,4.5,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+10,Apple AirPods Pro 2,Electronics,19100,4.3,Quality: Certified | Warranty: 1 Year
+11,Canon EOS R10 Mirrorless,Electronics,68499,4.8,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+12,Boat Stone 350 Speaker,Electronics,1700,4.5,Quality: Certified | Warranty: 1 Year
+13,Galaxy Z Fold 5,Electronics,134199,4.0,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+14,Canon EOS 1500D DSLR,Electronics,36900,4.8,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+15,Canon Pixma G3000 Printer,Electronics,97699,4.0,Quality: Certified | Warranty: 1 Year
+16,iPhone 13,Electronics,50000,4.7,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+17,Woodland Casual Loafers,Fashion,3900,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+18,Red Tape Formal Oxfords,Fashion,3499,4.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+19,Tata Salt,Groceries,200,4.7,Quality: Certified | Warranty: 1 Year
+20,Sony Alpha ZV-E10,Electronics,191999,4.4,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+21,Savlon Antiseptic Liquid,Groceries,200,4.4,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+22,Woodland Casual Loafers,Fashion,4200,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+23,Boro Plus Body Lotion,Groceries,299,4.4,Quality: Certified | Warranty: 1 Year
+24,Canon EOS R10 Mirrorless,Electronics,81999,4.6,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+25,Boat Rockerz 450,Electronics,1200,4.0,Quality: Certified | Warranty: 1 Year
+26,Dell G15 Gaming,Electronics,67300,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+27,"Sony Bravia 55"" 4K TV",Electronics,73699,4.4,Quality: Certified | Warranty: 1 Year
+28,iPhone 15 Pro,Electronics,139399,4.6,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+29,Lenovo Tab M10,Electronics,67100,4.4,Quality: Certified | Warranty: 1 Year
+30,Amul Processed Cheese Block,Groceries,199,4.2,Quality: Certified | Warranty: 1 Year
+31,iPhone 14,Electronics,65800,4.8,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+32,iPhone 14,Electronics,61700,4.6,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+33,Woodland Casual Loafers,Fashion,5800,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+34,Dettol Liquid Handwash,Groceries,200,4.4,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+35,Asus Zenbook S 13,Electronics,125000,4.6,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+36,Dell XPS 13 Plus,Electronics,166599,4.2,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+37,iPhone 14,Electronics,58700,4.5,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+38,Dell Alienware m15 R7,Electronics,206199,5.0,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+39,Red Tape Formal Oxfords,Fashion,1799,4.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+40,Canon Pixma G3000 Printer,Electronics,99600,4.2,Quality: Certified | Warranty: 1 Year
+41,HP Victus Gaming,Electronics,69900,4.6,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+42,Galaxy S23 Ultra,Electronics,104200,4.5,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+43,Lenovo IdeaPad Slim 3,Electronics,45000,4.4,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+44,Boro Plus Body Lotion,Groceries,100,4.3,Quality: Certified | Warranty: 1 Year
+45,Canon EOS 1500D DSLR,Electronics,41000,4.2,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+46,Canon EOS R10 Mirrorless,Electronics,65700,4.0,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+47,Adidas Ultraboost Light,Fashion,12299,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+48,iPhone 14,Electronics,58300,4.2,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+49,Asus TUF Gaming F15,Electronics,62299,4.4,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+50,Adidas Ultraboost Light,Fashion,16500,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+51,Galaxy Z Fold 5,Electronics,146100,4.6,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+52,Adidas Ultraboost Light,Fashion,11699,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+53,Adidas Originals Track Jacket,Fashion,3100,4.1,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+54,Asus ROG Zephyrus G14,Electronics,181400,4.9,Quality: Certified | Warranty: 1 Year
+55,Asus Vivobook 16X,Electronics,62300,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+56,Lenovo Legion 5 Pro,Electronics,134300,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+57,Nike Dri-Fit T-Shirt,Fashion,3400,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+58,Nike Air Force 1,Fashion,1699,4.1,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+59,Galaxy S21 FE,Electronics,31099,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+60,Tata Salt,Groceries,399,4.7,Quality: Certified | Warranty: 1 Year
+61,Boat Xtend Smartwatch,Electronics,94999,4.2,Quality: Certified | Warranty: 1 Year
+62,Colgate MaxFresh Red Gel,Groceries,399,4.1,Quality: Certified | Warranty: 1 Year
+63,Apple Watch Series 9,Electronics,50799,4.6,Quality: Certified | Warranty: 1 Year
+64,Boat Airdopes 141,Electronics,1400,4.2,Quality: Certified | Warranty: 1 Year
+65,Galaxy Z Fold 5,Electronics,141799,4.8,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+66,Adidas Originals Track Jacket,Fashion,3200,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+67,HP Spectre x360,Electronics,147900,5.0,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+68,Amul Salted Butter,Groceries,100,4.2,Quality: Certified | Warranty: 1 Year
+69,MacBook Air M1,Electronics,92500,4.6,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+70,Sony PlayStation 5,Electronics,53799,4.5,Quality: Certified | Warranty: 1 Year
+71,Maggi 2-Minute Masala Noodles,Groceries,199,4.1,Quality: Certified | Warranty: 1 Year
+72,Canon EOS R10 Mirrorless,Electronics,75299,4.8,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+73,Galaxy Buds 2,Electronics,56299,4.4,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+74,Galaxy Z Fold 5,Electronics,138300,4.3,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+75,Galaxy Buds 2,Electronics,92600,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+76,Dettol Liquid Handwash,Groceries,200,4.3,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+77,Adidas Stan Smith,Fashion,1300,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+78,Galaxy S23 Ultra,Electronics,114400,4.0,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+79,Dell Inspiron 15,Electronics,49399,4.7,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+80,Amul Processed Cheese Block,Groceries,400,4.6,Quality: Certified | Warranty: 1 Year
+81,Puma RS-X Sneakers,Fashion,8999,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+82,Asus Zenbook S 13,Electronics,99100,4.6,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+83,Nike Air Jordan 1,Fashion,16899,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+84,Tata Premium Tea,Groceries,399,4.7,Quality: Certified | Warranty: 1 Year
+85,Galaxy S21 FE,Electronics,33199,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+86,Boat Xtend Smartwatch,Electronics,74999,4.5,Quality: Certified | Warranty: 1 Year
+87,HP Deskjet Ink Advantage,Electronics,88100,4.0,Quality: Certified | Warranty: 1 Year
+88,iPhone 13,Electronics,48800,4.1,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+89,Woodland Camel Leather Boots,Fashion,4799,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+90,Galaxy S21 FE,Electronics,30900,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+91,Savlon Moisturizing Soap,Groceries,0,4.1,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+92,Amul Salted Butter,Groceries,499,4.8,Quality: Certified | Warranty: 1 Year
+93,Asus Zenbook S 13,Electronics,91399,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+94,Dell G15 Gaming,Electronics,81099,4.8,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+95,Woodland Camel Leather Boots,Fashion,4499,5.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+96,Puma RS-X Sneakers,Fashion,6900,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+97,Sony WH-1000XM5 Headphones,Electronics,26999,4.1,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+98,Lenovo Tab M10,Electronics,98600,4.5,Quality: Certified | Warranty: 1 Year
+99,Asus Vivobook 16X,Electronics,63400,4.9,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+100,Lenovo Legion 5 Pro,Electronics,133099,4.8,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+101,Maggi 2-Minute Masala Noodles,Groceries,400,4.2,Quality: Certified | Warranty: 1 Year
+102,MacBook Air M1,Electronics,91999,4.8,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+103,"Sony Bravia 55"" 4K TV",Electronics,72100,4.8,Quality: Certified | Warranty: 1 Year
+104,iPhone 15 Pro,Electronics,128900,4.3,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+105,Adidas Stan Smith,Fashion,2400,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+106,iPhone 15 Pro,Electronics,92099,4.2,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+107,Nike Air Jordan 1,Fashion,17799,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+108,Asus TUF Gaming F15,Electronics,68299,4.1,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+109,HP Spectre x360,Electronics,147799,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+110,Dettol Antiseptic Liquid,Groceries,200,4.7,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+111,iPhone 13,Electronics,52000,4.9,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+112,Adidas Originals Track Jacket,Fashion,4200,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+113,Puma Motorsport T-Shirt,Fashion,1400,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+114,Lenovo Tab M10,Electronics,65599,4.1,Quality: Certified | Warranty: 1 Year
+115,Dell XPS 13 Plus,Electronics,143900,4.0,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+116,Puma Motorsport T-Shirt,Fashion,3700,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+117,Savlon Moisturizing Soap,Groceries,99,5.0,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+118,Puma RS-X Sneakers,Fashion,6099,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+119,MacBook Pro 14,Electronics,169700,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+120,MacBook Air M1,Electronics,94100,4.9,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+121,Dettol Liquid Handwash,Groceries,199,4.4,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+122,Nike Dri-Fit T-Shirt,Fashion,3000,5.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+123,Colgate Strong Teeth Paste,Groceries,199,4.8,Quality: Certified | Warranty: 1 Year
+124,Boat Rockerz 450,Electronics,2299,4.1,Quality: Certified | Warranty: 1 Year
+125,MacBook Pro 14,Electronics,180899,4.7,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+126,"Sony Bravia 55"" 4K TV",Electronics,79799,4.6,Quality: Certified | Warranty: 1 Year
+127,Red Tape Retro Sneakers,Fashion,3100,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+128,Puma RS-X Sneakers,Fashion,7299,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+129,iPhone 15 Pro,Electronics,89400,4.9,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+130,Nike Air Jordan 1,Fashion,15200,4.1,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+131,Nike Dri-Fit T-Shirt,Fashion,1699,5.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+132,Red Tape Slim Fit Jeans,Fashion,3100,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+133,Savlon Antiseptic Liquid,Groceries,100,4.7,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+134,Galaxy S23 Ultra,Electronics,104800,4.3,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+135,Canon EOS R10 Mirrorless,Electronics,80799,4.9,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+136,Dell Inspiron 15,Electronics,52300,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+137,Red Tape Slim Fit Jeans,Fashion,3699,4.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+138,Nike Air Jordan 1,Fashion,14599,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+139,Asus ROG Zephyrus G14,Electronics,166100,4.1,Quality: Certified | Warranty: 1 Year
+140,iPhone 13,Electronics,54400,4.7,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+141,Dettol Antiseptic Liquid,Groceries,199,4.9,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+142,Boat Xtend Smartwatch,Electronics,63800,4.6,Quality: Certified | Warranty: 1 Year
+143,Asus Zenbook S 13,Electronics,109600,4.2,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+144,Canon Pixma G3000 Printer,Electronics,89800,4.6,Quality: Certified | Warranty: 1 Year
+145,Asus Zenbook S 13,Electronics,100299,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+146,HP Deskjet Ink Advantage,Electronics,52000,4.9,Quality: Certified | Warranty: 1 Year
+147,Red Tape Slim Fit Jeans,Fashion,1799,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+148,Amul Salted Butter,Groceries,299,4.4,Quality: Certified | Warranty: 1 Year
+149,HP Victus Gaming,Electronics,66200,4.0,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+150,Apple Watch Series 9,Electronics,84799,4.5,Quality: Certified | Warranty: 1 Year
+151,Dell XPS 13 Plus,Electronics,153100,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+152,Woodland Casual Loafers,Fashion,4699,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+153,iPhone 14,Electronics,67099,4.0,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+154,Amul Taaza Milk,Groceries,100,4.1,Quality: Certified | Warranty: 1 Year
+155,Red Tape Retro Sneakers,Fashion,2299,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+156,HP Pavilion 15,Electronics,56299,4.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+157,Boat Xtend Smartwatch,Electronics,68999,5.0,Quality: Certified | Warranty: 1 Year
+158,iPhone 14,Electronics,64300,4.8,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+159,Lenovo IdeaPad Slim 3,Electronics,52699,4.4,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+160,Canon EOS R10 Mirrorless,Electronics,81300,4.9,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+161,Woodland Casual Loafers,Fashion,5500,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+162,MacBook Air M2,Electronics,90100,4.3,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+163,Boat Xtend Smartwatch,Electronics,99599,5.0,Quality: Certified | Warranty: 1 Year
+164,Galaxy Buds 2,Electronics,82599,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+165,Red Tape Retro Sneakers,Fashion,1800,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+166,Dell Alienware m15 R7,Electronics,199900,4.7,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+167,Puma RS-X Sneakers,Fashion,8400,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+168,Amul Salted Butter,Groceries,100,4.7,Quality: Certified | Warranty: 1 Year
+169,Sony Alpha ZV-E10,Electronics,233400,4.9,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+170,Boro Plus Antiseptic Cream,Groceries,299,4.3,Quality: Certified | Warranty: 1 Year
+171,Dell G15 Gaming,Electronics,70600,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+172,Dettol Antiseptic Liquid,Groceries,200,4.8,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+173,MacBook Air M1,Electronics,69999,4.4,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+174,Boat Stone 350 Speaker,Electronics,1799,4.2,Quality: Certified | Warranty: 1 Year
+175,Boat Xtend Smartwatch,Electronics,73100,4.5,Quality: Certified | Warranty: 1 Year
+176,Canon Pixma G3000 Printer,Electronics,83299,4.5,Quality: Certified | Warranty: 1 Year
+177,Asus ROG Zephyrus G14,Electronics,188400,4.7,Quality: Certified | Warranty: 1 Year
+178,Sony PlayStation 5,Electronics,46600,4.5,Quality: Certified | Warranty: 1 Year
+179,MacBook Air M1,Electronics,91900,4.1,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+180,Boro Plus Body Lotion,Groceries,399,4.6,Quality: Certified | Warranty: 1 Year
+181,Puma RS-X Sneakers,Fashion,7399,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+182,Sony Alpha a7M4 Camera,Electronics,181500,4.8,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+183,Galaxy Buds 2,Electronics,71600,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+184,Galaxy S23 Ultra,Electronics,106399,5.0,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+185,Dettol Antiseptic Liquid,Groceries,299,4.4,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+186,Galaxy Watch 6,Electronics,68500,4.6,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+187,Woodland Camel Leather Boots,Fashion,4900,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+188,Puma Motorsport T-Shirt,Fashion,1300,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+189,Adidas Originals Track Jacket,Fashion,3100,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+190,Boro Plus Antiseptic Cream,Groceries,200,4.7,Quality: Certified | Warranty: 1 Year
+191,Lenovo ThinkPad X1 Carbon,Electronics,127400,4.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+192,Asus ROG Zephyrus G14,Electronics,150700,4.3,Quality: Certified | Warranty: 1 Year
+193,Tata Salt,Groceries,100,4.1,Quality: Certified | Warranty: 1 Year
+194,Woodland Camel Leather Boots,Fashion,4799,4.1,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+195,"Sony Bravia 55"" 4K TV",Electronics,90500,4.7,Quality: Certified | Warranty: 1 Year
+196,MacBook Pro 14,Electronics,239300,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+197,Sony PlayStation 5,Electronics,53500,4.2,Quality: Certified | Warranty: 1 Year
+198,Sony Alpha a7M4 Camera,Electronics,185199,4.7,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+199,Sony Alpha ZV-E10,Electronics,227000,4.1,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+200,Galaxy Z Fold 5,Electronics,134100,4.7,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+201,Amul Salted Butter,Groceries,299,4.6,Quality: Certified | Warranty: 1 Year
+202,Galaxy Buds 2,Electronics,82499,4.8,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+203,Savlon Antiseptic Liquid,Groceries,199,4.3,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+204,Red Tape Slim Fit Jeans,Fashion,3899,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+205,Colgate MaxFresh Red Gel,Groceries,200,4.2,Quality: Certified | Warranty: 1 Year
+206,Puma Motorsport T-Shirt,Fashion,3000,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+207,MacBook Air M2,Electronics,81099,4.1,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+208,Boat Xtend Smartwatch,Electronics,90999,4.7,Quality: Certified | Warranty: 1 Year
+209,Lenovo ThinkPad X1 Carbon,Electronics,149899,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+210,Lenovo Tab M10,Electronics,85399,4.6,Quality: Certified | Warranty: 1 Year
+211,MacBook Air M1,Electronics,71100,4.9,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+212,Puma RS-X Sneakers,Fashion,7100,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+213,Asus Vivobook 16X,Electronics,55600,5.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+214,Asus ROG Zephyrus G14,Electronics,155499,4.2,Quality: Certified | Warranty: 1 Year
+215,Canon EOS 1500D DSLR,Electronics,41399,4.3,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+216,Nike Air Force 1,Fashion,2499,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+217,Lenovo ThinkPad X1 Carbon,Electronics,90799,4.8,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+218,Galaxy Z Fold 5,Electronics,139499,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+219,Galaxy Watch 6,Electronics,60299,4.2,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+220,Asus Zenbook S 13,Electronics,86700,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+221,Dell Inspiron 15,Electronics,49199,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+222,Canon Pixma G3000 Printer,Electronics,69099,4.8,Quality: Certified | Warranty: 1 Year
+223,Nike Air Jordan 1,Fashion,15200,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+224,Galaxy Book 3,Electronics,83599,4.6,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+225,Amul Salted Butter,Groceries,299,4.0,Quality: Certified | Warranty: 1 Year
+226,MacBook Air M2,Electronics,80400,4.5,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+227,Sony Alpha a7M4 Camera,Electronics,214499,4.8,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+228,iPhone 15 Pro,Electronics,100800,4.6,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+229,Amul Taaza Milk,Groceries,100,4.5,Quality: Certified | Warranty: 1 Year
+230,Dettol Antiseptic Liquid,Groceries,299,4.6,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+231,Red Tape Formal Oxfords,Fashion,2099,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+232,Dell Alienware m15 R7,Electronics,187000,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+233,MacBook Air M1,Electronics,78400,4.0,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+234,Canon Pixma G3000 Printer,Electronics,95300,4.3,Quality: Certified | Warranty: 1 Year
+235,Puma RS-X Sneakers,Fashion,7499,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+236,Galaxy Watch 6,Electronics,55399,4.3,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+237,iPhone 15 Pro,Electronics,142700,4.6,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+238,Asus Vivobook 16X,Electronics,47899,4.8,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+239,Dettol Liquid Handwash,Groceries,299,4.6,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+240,Sony WH-1000XM5 Headphones,Electronics,28899,4.8,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+241,Nike Dri-Fit T-Shirt,Fashion,2700,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+242,HP Pavilion 15,Electronics,61000,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+243,Asus TUF Gaming F15,Electronics,77299,4.4,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+244,HP Deskjet Ink Advantage,Electronics,51600,4.1,Quality: Certified | Warranty: 1 Year
+245,MacBook Air M2,Electronics,69600,4.5,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+246,"Sony Bravia 55"" 4K TV",Electronics,140300,4.9,Quality: Certified | Warranty: 1 Year
+247,Adidas Ultraboost Light,Fashion,15000,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+248,Nike Air Force 1,Fashion,3200,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+249,iPhone 14,Electronics,67200,4.2,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+250,Red Tape Formal Oxfords,Fashion,2600,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+251,Lenovo Tab M10,Electronics,86700,4.6,Quality: Certified | Warranty: 1 Year
+252,Tata Premium Tea,Groceries,499,4.5,Quality: Certified | Warranty: 1 Year
+253,Colgate Strong Teeth Paste,Groceries,199,4.4,Quality: Certified | Warranty: 1 Year
+254,Galaxy Book 3,Electronics,73900,4.8,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+255,Tata Premium Tea,Groceries,200,4.1,Quality: Certified | Warranty: 1 Year
+256,Galaxy Z Fold 5,Electronics,152100,4.0,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+257,Galaxy Buds 2,Electronics,53499,4.9,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+258,Savlon Antiseptic Liquid,Groceries,299,4.3,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+259,Nike Air Jordan 1,Fashion,16399,5.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+260,Sony Alpha ZV-E10,Electronics,211600,4.7,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+261,Savlon Moisturizing Soap,Groceries,0,4.5,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+262,Adidas Originals Track Jacket,Fashion,4499,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+263,Adidas Ultraboost Light,Fashion,11299,4.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+264,Galaxy S21 FE,Electronics,33400,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+265,Tata Premium Tea,Groceries,399,4.6,Quality: Certified | Warranty: 1 Year
+266,Colgate MaxFresh Red Gel,Groceries,300,5.0,Quality: Certified | Warranty: 1 Year
+267,Tata Premium Tea,Groceries,300,4.6,Quality: Certified | Warranty: 1 Year
+268,Red Tape Slim Fit Jeans,Fashion,3699,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+269,Boat Rockerz 450,Electronics,2100,4.8,Quality: Certified | Warranty: 1 Year
+270,Asus Zenbook S 13,Electronics,125099,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+271,Galaxy Buds 2,Electronics,95400,4.4,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+272,Galaxy Book 3,Electronics,92600,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+273,Savlon Moisturizing Soap,Groceries,99,4.6,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+274,Dell Alienware m15 R7,Electronics,270800,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+275,Red Tape Formal Oxfords,Fashion,2299,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+276,Amul Salted Butter,Groceries,300,4.9,Quality: Certified | Warranty: 1 Year
+277,Galaxy S23 Ultra,Electronics,111699,4.8,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+278,Savlon Moisturizing Soap,Groceries,99,4.4,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+279,MacBook Pro 14,Electronics,240300,4.2,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+280,Tata Salt,Groceries,199,4.8,Quality: Certified | Warranty: 1 Year
+281,Red Tape Formal Oxfords,Fashion,2800,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+282,Boat Xtend Smartwatch,Electronics,65700,4.9,Quality: Certified | Warranty: 1 Year
+283,Adidas Originals Track Jacket,Fashion,3300,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+284,Nike Dri-Fit T-Shirt,Fashion,1399,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+285,Tata Salt,Groceries,100,4.5,Quality: Certified | Warranty: 1 Year
+286,Lenovo ThinkPad X1 Carbon,Electronics,123700,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+287,Sony PlayStation 5,Electronics,51999,4.1,Quality: Certified | Warranty: 1 Year
+288,"Sony Bravia 55"" 4K TV",Electronics,88500,4.8,Quality: Certified | Warranty: 1 Year
+289,HP Victus Gaming,Electronics,67800,4.0,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+290,Savlon Moisturizing Soap,Groceries,99,4.8,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+291,Adidas Ultraboost Light,Fashion,15700,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+292,Asus ROG Zephyrus G14,Electronics,198299,4.2,Quality: Certified | Warranty: 1 Year
+293,Apple AirPods Pro 2,Electronics,24099,4.7,Quality: Certified | Warranty: 1 Year
+294,Sony WH-1000XM5 Headphones,Electronics,24400,4.1,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+295,Boro Plus Antiseptic Cream,Groceries,299,4.6,Quality: Certified | Warranty: 1 Year
+296,Apple AirPods Pro 2,Electronics,22700,4.8,Quality: Certified | Warranty: 1 Year
+297,Dettol Antiseptic Liquid,Groceries,199,4.1,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+298,Nike Air Jordan 1,Fashion,13099,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+299,Maggi 2-Minute Masala Noodles,Groceries,399,4.1,Quality: Certified | Warranty: 1 Year
+300,Dell Inspiron 15,Electronics,58000,4.5,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+301,Nike Air Force 1,Fashion,2700,4.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+302,Amul Salted Butter,Groceries,200,4.1,Quality: Certified | Warranty: 1 Year
+303,HP Victus Gaming,Electronics,78199,4.1,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+304,Galaxy S23 Ultra,Electronics,98499,4.3,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+305,Boat Stone 350 Speaker,Electronics,1799,4.6,Quality: Certified | Warranty: 1 Year
+306,MacBook Air M2,Electronics,83499,4.5,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+307,Boat Stone 350 Speaker,Electronics,2900,4.2,Quality: Certified | Warranty: 1 Year
+308,Canon EOS 1500D DSLR,Electronics,40099,4.5,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+309,Colgate Strong Teeth Paste,Groceries,100,4.3,Quality: Certified | Warranty: 1 Year
+310,Boat Xtend Smartwatch,Electronics,63500,4.3,Quality: Certified | Warranty: 1 Year
+311,Savlon Moisturizing Soap,Groceries,0,4.8,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+312,iPhone 15 Pro,Electronics,138100,4.2,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+313,iPhone 15 Pro,Electronics,79100,4.3,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+314,Lenovo ThinkPad X1 Carbon,Electronics,146600,5.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+315,Dettol Antiseptic Liquid,Groceries,200,5.0,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+316,HP Spectre x360,Electronics,150800,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+317,Sony Alpha a7M4 Camera,Electronics,226000,4.2,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+318,MacBook Air M1,Electronics,86399,4.3,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+319,Colgate MaxFresh Red Gel,Groceries,200,4.6,Quality: Certified | Warranty: 1 Year
+320,Red Tape Slim Fit Jeans,Fashion,1899,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+321,"Sony Bravia 55"" 4K TV",Electronics,97000,4.1,Quality: Certified | Warranty: 1 Year
+322,Sony PlayStation 5,Electronics,47500,4.1,Quality: Certified | Warranty: 1 Year
+323,Boro Plus Body Lotion,Groceries,199,4.9,Quality: Certified | Warranty: 1 Year
+324,Puma RS-X Sneakers,Fashion,7800,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+325,Boat Xtend Smartwatch,Electronics,87099,4.1,Quality: Certified | Warranty: 1 Year
+326,Lenovo IdeaPad Slim 3,Electronics,55199,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+327,Amul Taaza Milk,Groceries,400,4.1,Quality: Certified | Warranty: 1 Year
+328,Canon Pixma G3000 Printer,Electronics,75100,4.6,Quality: Certified | Warranty: 1 Year
+329,Puma Motorsport T-Shirt,Fashion,2900,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+330,Adidas Ultraboost Light,Fashion,15300,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+331,Galaxy Book 3,Electronics,103700,4.3,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+332,Dell G15 Gaming,Electronics,83100,4.7,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+333,Boat Stone 350 Speaker,Electronics,2300,4.1,Quality: Certified | Warranty: 1 Year
+334,Galaxy Book 3,Electronics,93800,4.3,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+335,Amul Taaza Milk,Groceries,299,4.5,Quality: Certified | Warranty: 1 Year
+336,Apple Watch Series 9,Electronics,93699,4.3,Quality: Certified | Warranty: 1 Year
+337,Amul Taaza Milk,Groceries,200,4.1,Quality: Certified | Warranty: 1 Year
+338,Asus ROG Zephyrus G14,Electronics,177900,4.8,Quality: Certified | Warranty: 1 Year
+339,MacBook Pro 14,Electronics,172600,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+340,Boat Rockerz 450,Electronics,2199,4.3,Quality: Certified | Warranty: 1 Year
+341,Dell Alienware m15 R7,Electronics,242400,5.0,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+342,Boro Plus Body Lotion,Groceries,199,4.3,Quality: Certified | Warranty: 1 Year
+343,Canon EOS 1500D DSLR,Electronics,38000,4.5,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+344,Asus TUF Gaming F15,Electronics,65100,4.8,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+345,Galaxy Book 3,Electronics,119799,4.6,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+346,Amul Processed Cheese Block,Groceries,199,4.6,Quality: Certified | Warranty: 1 Year
+347,Woodland Casual Loafers,Fashion,3999,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+348,Galaxy S21 FE,Electronics,32400,4.0,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+349,Savlon Antiseptic Liquid,Groceries,100,4.6,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+350,Colgate Strong Teeth Paste,Groceries,100,4.5,Quality: Certified | Warranty: 1 Year
+351,Asus ROG Zephyrus G14,Electronics,193299,4.4,Quality: Certified | Warranty: 1 Year
+352,Red Tape Slim Fit Jeans,Fashion,1900,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+353,Boro Plus Antiseptic Cream,Groceries,200,4.1,Quality: Certified | Warranty: 1 Year
+354,Savlon Antiseptic Liquid,Groceries,299,4.5,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+355,Asus TUF Gaming F15,Electronics,55299,4.4,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+356,HP Spectre x360,Electronics,139799,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+357,Sony Alpha ZV-E10,Electronics,223999,4.7,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+358,Dell XPS 13 Plus,Electronics,173400,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+359,Colgate Strong Teeth Paste,Groceries,100,4.9,Quality: Certified | Warranty: 1 Year
+360,Galaxy Book 3,Electronics,87800,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+361,Asus Zenbook S 13,Electronics,91600,4.2,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+362,Galaxy Buds 2,Electronics,62499,4.4,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+363,Boat Airdopes 141,Electronics,1200,4.0,Quality: Certified | Warranty: 1 Year
+364,Asus ROG Zephyrus G14,Electronics,193799,4.5,Quality: Certified | Warranty: 1 Year
+365,Dell XPS 13 Plus,Electronics,150200,4.9,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+366,Boro Plus Antiseptic Cream,Groceries,200,4.2,Quality: Certified | Warranty: 1 Year
+367,Canon EOS 1500D DSLR,Electronics,36199,4.4,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+368,iPhone 13,Electronics,52899,4.2,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+369,Boat Stone 350 Speaker,Electronics,2399,4.2,Quality: Certified | Warranty: 1 Year
+370,Red Tape Formal Oxfords,Fashion,2399,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+371,"Sony Bravia 55"" 4K TV",Electronics,70299,4.3,Quality: Certified | Warranty: 1 Year
+372,Galaxy Watch 6,Electronics,88700,5.0,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+373,Galaxy Watch 6,Electronics,84200,5.0,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+374,iPhone 13,Electronics,48000,4.6,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+375,Galaxy Book 3,Electronics,97299,4.6,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+376,Lenovo IdeaPad Slim 3,Electronics,46499,4.3,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+377,Lenovo Legion 5 Pro,Electronics,128600,4.8,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+378,Adidas Originals Track Jacket,Fashion,4300,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+379,Sony PlayStation 5,Electronics,48800,4.8,Quality: Certified | Warranty: 1 Year
+380,Boro Plus Antiseptic Cream,Groceries,200,4.7,Quality: Certified | Warranty: 1 Year
+381,Dell XPS 13 Plus,Electronics,169699,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+382,"Sony Bravia 55"" 4K TV",Electronics,97300,4.6,Quality: Certified | Warranty: 1 Year
+383,Boro Plus Body Lotion,Groceries,300,4.9,Quality: Certified | Warranty: 1 Year
+384,Savlon Antiseptic Liquid,Groceries,299,5.0,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+385,MacBook Air M1,Electronics,73799,4.8,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+386,Red Tape Slim Fit Jeans,Fashion,2800,4.1,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+387,Boat Xtend Smartwatch,Electronics,80800,4.4,Quality: Certified | Warranty: 1 Year
+388,Tata Salt,Groceries,199,4.7,Quality: Certified | Warranty: 1 Year
+389,Sony Alpha a7M4 Camera,Electronics,209399,4.9,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+390,Nike Air Jordan 1,Fashion,15400,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+391,Red Tape Retro Sneakers,Fashion,3900,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+392,Nike Dri-Fit T-Shirt,Fashion,1999,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+393,Asus Vivobook 16X,Electronics,62000,4.7,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+394,Adidas Stan Smith,Fashion,1900,4.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+395,HP Spectre x360,Electronics,142100,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+396,Sony PlayStation 5,Electronics,48900,4.1,Quality: Certified | Warranty: 1 Year
+397,Savlon Antiseptic Liquid,Groceries,100,4.7,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+398,Sony WH-1000XM5 Headphones,Electronics,27499,4.6,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+399,Lenovo IdeaPad Slim 3,Electronics,53600,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+400,Sony PlayStation 5,Electronics,51799,4.2,Quality: Certified | Warranty: 1 Year
+401,Sony Alpha a7M4 Camera,Electronics,232999,4.7,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+402,Lenovo IdeaPad Slim 3,Electronics,42599,4.7,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+403,HP Deskjet Ink Advantage,Electronics,64299,4.4,Quality: Certified | Warranty: 1 Year
+404,Tata Premium Tea,Groceries,300,4.8,Quality: Certified | Warranty: 1 Year
+405,Adidas Stan Smith,Fashion,1199,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+406,HP Pavilion 15,Electronics,68399,4.7,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+407,Colgate MaxFresh Red Gel,Groceries,499,4.3,Quality: Certified | Warranty: 1 Year
+408,MacBook Air M2,Electronics,82000,4.9,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+409,Galaxy Z Fold 5,Electronics,133199,4.9,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+410,Red Tape Slim Fit Jeans,Fashion,1700,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+411,MacBook Pro 14,Electronics,171799,4.5,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+412,"Sony Bravia 55"" 4K TV",Electronics,100500,4.5,Quality: Certified | Warranty: 1 Year
+413,Sony Alpha a7M4 Camera,Electronics,234400,4.7,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+414,Tata Salt,Groceries,199,4.9,Quality: Certified | Warranty: 1 Year
+415,Galaxy Watch 6,Electronics,78599,4.4,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+416,Lenovo Tab M10,Electronics,65199,4.8,Quality: Certified | Warranty: 1 Year
+417,Adidas Originals Track Jacket,Fashion,4700,4.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+418,Adidas Ultraboost Light,Fashion,11399,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+419,Colgate Strong Teeth Paste,Groceries,0,4.7,Quality: Certified | Warranty: 1 Year
+420,Savlon Antiseptic Liquid,Groceries,200,4.9,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+421,Sony Alpha a7M4 Camera,Electronics,227700,4.4,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+422,Galaxy Z Fold 5,Electronics,155899,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+423,iPhone 14,Electronics,65900,4.7,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+424,Galaxy S21 FE,Electronics,32400,4.8,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+425,Canon Pixma G3000 Printer,Electronics,74499,4.5,Quality: Certified | Warranty: 1 Year
+426,Sony Alpha ZV-E10,Electronics,226400,4.4,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+427,Galaxy S23 Ultra,Electronics,95899,4.7,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+428,Tata Salt,Groceries,399,4.1,Quality: Certified | Warranty: 1 Year
+429,MacBook Pro 14,Electronics,220899,4.5,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+430,Lenovo Tab M10,Electronics,84900,4.2,Quality: Certified | Warranty: 1 Year
+431,Nike Air Force 1,Fashion,2800,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+432,HP Spectre x360,Electronics,134000,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+433,Galaxy S21 FE,Electronics,33799,4.4,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+434,MacBook Air M2,Electronics,73399,4.1,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+435,Adidas Stan Smith,Fashion,3799,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+436,Lenovo Legion 5 Pro,Electronics,128200,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+437,Dell Alienware m15 R7,Electronics,186599,4.2,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+438,Asus Zenbook S 13,Electronics,107600,4.2,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+439,Lenovo Legion 5 Pro,Electronics,125600,4.7,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+440,Boat Airdopes 141,Electronics,1300,4.7,Quality: Certified | Warranty: 1 Year
+441,Canon EOS R10 Mirrorless,Electronics,66100,4.2,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+442,HP Victus Gaming,Electronics,61799,4.5,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+443,Dell Alienware m15 R7,Electronics,172399,4.9,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+444,Boat Airdopes 141,Electronics,1300,4.5,Quality: Certified | Warranty: 1 Year
+445,Boat Xtend Smartwatch,Electronics,69399,4.9,Quality: Certified | Warranty: 1 Year
+446,Galaxy S21 FE,Electronics,30899,4.8,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+447,Dell Inspiron 15,Electronics,51299,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+448,Galaxy Z Fold 5,Electronics,158000,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+449,Galaxy Watch 6,Electronics,99999,4.9,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+450,Boat Rockerz 450,Electronics,2200,4.7,Quality: Certified | Warranty: 1 Year
+451,Apple Watch Series 9,Electronics,72700,4.5,Quality: Certified | Warranty: 1 Year
+452,Sony WH-1000XM5 Headphones,Electronics,26500,4.6,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+453,Adidas Stan Smith,Fashion,2699,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+454,Galaxy S21 FE,Electronics,30299,4.1,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+455,iPhone 14,Electronics,61299,4.7,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+456,Amul Taaza Milk,Groceries,400,4.3,Quality: Certified | Warranty: 1 Year
+457,Sony PlayStation 5,Electronics,48099,5.0,Quality: Certified | Warranty: 1 Year
+458,Dell Inspiron 15,Electronics,65199,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+459,HP Victus Gaming,Electronics,80999,4.8,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+460,Lenovo ThinkPad X1 Carbon,Electronics,138500,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+461,Puma Motorsport T-Shirt,Fashion,3600,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+462,Galaxy Watch 6,Electronics,53300,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+463,Savlon Antiseptic Liquid,Groceries,299,4.6,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+464,Red Tape Retro Sneakers,Fashion,1700,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+465,Sony Alpha ZV-E10,Electronics,231399,4.4,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+466,Maggi 2-Minute Masala Noodles,Groceries,199,4.7,Quality: Certified | Warranty: 1 Year
+467,Sony Alpha a7M4 Camera,Electronics,235500,4.2,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+468,Adidas Ultraboost Light,Fashion,13100,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+469,Puma RS-X Sneakers,Fashion,7400,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+470,Sony WH-1000XM5 Headphones,Electronics,26499,4.2,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+471,Apple Watch Series 9,Electronics,72200,4.8,Quality: Certified | Warranty: 1 Year
+472,Lenovo Tab M10,Electronics,79100,4.3,Quality: Certified | Warranty: 1 Year
+473,Tata Premium Tea,Groceries,199,4.9,Quality: Certified | Warranty: 1 Year
+474,Dell Inspiron 15,Electronics,60299,4.3,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+475,Nike Dri-Fit T-Shirt,Fashion,3099,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+476,Lenovo IdeaPad Slim 3,Electronics,41899,5.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+477,Galaxy S23 Ultra,Electronics,102499,4.6,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+478,HP Deskjet Ink Advantage,Electronics,52200,4.2,Quality: Certified | Warranty: 1 Year
+479,HP Deskjet Ink Advantage,Electronics,75899,4.8,Quality: Certified | Warranty: 1 Year
+480,Woodland Casual Loafers,Fashion,3799,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+481,MacBook Air M2,Electronics,73400,4.8,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+482,Adidas Stan Smith,Fashion,3899,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+483,Amul Taaza Milk,Groceries,399,4.7,Quality: Certified | Warranty: 1 Year
+484,Red Tape Retro Sneakers,Fashion,2899,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+485,Maggi 2-Minute Masala Noodles,Groceries,300,4.7,Quality: Certified | Warranty: 1 Year
+486,Colgate MaxFresh Red Gel,Groceries,400,4.2,Quality: Certified | Warranty: 1 Year
+487,Nike Air Force 1,Fashion,1199,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+488,HP Spectre x360,Electronics,140600,4.7,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+489,Lenovo Tab M10,Electronics,75600,4.7,Quality: Certified | Warranty: 1 Year
+490,Sony Alpha ZV-E10,Electronics,184099,4.4,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+491,Apple Watch Series 9,Electronics,98399,4.3,Quality: Certified | Warranty: 1 Year
+492,Asus Zenbook S 13,Electronics,86100,4.6,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+493,Boat Airdopes 141,Electronics,1400,4.1,Quality: Certified | Warranty: 1 Year
+494,Savlon Moisturizing Soap,Groceries,99,4.5,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+495,Sony Alpha ZV-E10,Electronics,244600,4.6,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+496,Savlon Moisturizing Soap,Groceries,99,4.3,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+497,MacBook Air M1,Electronics,91899,4.9,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+498,iPhone 13,Electronics,52800,4.6,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+499,Sony Alpha a7M4 Camera,Electronics,213899,4.5,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+500,Amul Salted Butter,Groceries,399,4.4,Quality: Certified | Warranty: 1 Year
+501,Tata Premium Tea,Groceries,199,4.8,Quality: Certified | Warranty: 1 Year
+502,Canon EOS 1500D DSLR,Electronics,41100,4.3,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+503,Asus Vivobook 16X,Electronics,58699,4.4,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+504,Apple Watch Series 9,Electronics,93799,4.4,Quality: Certified | Warranty: 1 Year
+505,Nike Air Force 1,Fashion,2400,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+506,Woodland Casual Loafers,Fashion,5800,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+507,Dettol Liquid Handwash,Groceries,299,4.3,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+508,Adidas Ultraboost Light,Fashion,13999,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+509,Puma Motorsport T-Shirt,Fashion,3300,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+510,Sony Alpha ZV-E10,Electronics,224700,4.5,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+511,Woodland Casual Loafers,Fashion,5600,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+512,Dell XPS 13 Plus,Electronics,163499,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+513,Lenovo Legion 5 Pro,Electronics,128800,4.5,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+514,HP Pavilion 15,Electronics,68900,5.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+515,Woodland Camel Leather Boots,Fashion,4000,5.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+516,Colgate Strong Teeth Paste,Groceries,199,4.2,Quality: Certified | Warranty: 1 Year
+517,Amul Salted Butter,Groceries,300,4.9,Quality: Certified | Warranty: 1 Year
+518,Boro Plus Antiseptic Cream,Groceries,200,4.6,Quality: Certified | Warranty: 1 Year
+519,Amul Processed Cheese Block,Groceries,399,4.2,Quality: Certified | Warranty: 1 Year
+520,Apple Watch Series 9,Electronics,66500,4.9,Quality: Certified | Warranty: 1 Year
+521,MacBook Air M2,Electronics,80199,4.6,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+522,Dell XPS 13 Plus,Electronics,170599,4.8,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+523,Galaxy Z Fold 5,Electronics,140799,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+524,Canon EOS 1500D DSLR,Electronics,41299,4.4,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+525,MacBook Pro 14,Electronics,199500,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+526,MacBook Air M1,Electronics,73499,4.5,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+527,Dell G15 Gaming,Electronics,84100,4.3,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+528,HP Deskjet Ink Advantage,Electronics,54599,4.6,Quality: Certified | Warranty: 1 Year
+529,HP Victus Gaming,Electronics,84999,4.4,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+530,Dell Alienware m15 R7,Electronics,170099,4.5,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+531,Dell XPS 13 Plus,Electronics,140000,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+532,HP Spectre x360,Electronics,154700,4.8,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+533,MacBook Pro 14,Electronics,220599,4.8,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+534,Adidas Originals Track Jacket,Fashion,3700,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+535,Red Tape Formal Oxfords,Fashion,2700,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+536,Apple Watch Series 9,Electronics,86800,4.8,Quality: Certified | Warranty: 1 Year
+537,Asus Vivobook 16X,Electronics,42100,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+538,Tata Premium Tea,Groceries,400,4.3,Quality: Certified | Warranty: 1 Year
+539,Apple AirPods Pro 2,Electronics,24000,5.0,Quality: Certified | Warranty: 1 Year
+540,Sony Alpha a7M4 Camera,Electronics,187700,4.3,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+541,Dell G15 Gaming,Electronics,83399,4.8,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+542,Tata Premium Tea,Groceries,499,4.8,Quality: Certified | Warranty: 1 Year
+543,Red Tape Slim Fit Jeans,Fashion,2600,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+544,Canon EOS R10 Mirrorless,Electronics,81100,4.1,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+545,Boat Rockerz 450,Electronics,1999,4.8,Quality: Certified | Warranty: 1 Year
+546,iPhone 13,Electronics,50400,4.9,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+547,Apple AirPods Pro 2,Electronics,24499,4.8,Quality: Certified | Warranty: 1 Year
+548,Boro Plus Body Lotion,Groceries,299,4.6,Quality: Certified | Warranty: 1 Year
+549,Dettol Liquid Handwash,Groceries,199,4.3,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+550,Asus TUF Gaming F15,Electronics,75600,4.6,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+551,Nike Air Jordan 1,Fashion,13699,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+552,Boat Rockerz 450,Electronics,1999,4.5,Quality: Certified | Warranty: 1 Year
+553,MacBook Air M2,Electronics,74600,4.6,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+554,Lenovo IdeaPad Slim 3,Electronics,47499,4.8,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+555,Amul Processed Cheese Block,Groceries,100,4.6,Quality: Certified | Warranty: 1 Year
+556,Nike Air Force 1,Fashion,1700,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+557,Galaxy Book 3,Electronics,114499,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+558,Savlon Moisturizing Soap,Groceries,0,4.2,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+559,Dell Alienware m15 R7,Electronics,213699,4.7,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+560,iPhone 14,Electronics,65799,4.8,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+561,Puma Motorsport T-Shirt,Fashion,3400,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+562,Maggi 2-Minute Masala Noodles,Groceries,300,4.2,Quality: Certified | Warranty: 1 Year
+563,Maggi 2-Minute Masala Noodles,Groceries,200,4.7,Quality: Certified | Warranty: 1 Year
+564,Boro Plus Body Lotion,Groceries,400,4.5,Quality: Certified | Warranty: 1 Year
+565,Amul Processed Cheese Block,Groceries,400,4.4,Quality: Certified | Warranty: 1 Year
+566,Canon EOS 1500D DSLR,Electronics,37300,4.5,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+567,Asus Vivobook 16X,Electronics,61799,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+568,iPhone 14,Electronics,69099,4.4,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+569,Canon Pixma G3000 Printer,Electronics,88299,4.2,Quality: Certified | Warranty: 1 Year
+570,Boro Plus Antiseptic Cream,Groceries,100,4.5,Quality: Certified | Warranty: 1 Year
+571,Galaxy S23 Ultra,Electronics,106500,4.5,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+572,Dell XPS 13 Plus,Electronics,178600,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+573,Boat Rockerz 450,Electronics,2299,4.7,Quality: Certified | Warranty: 1 Year
+574,Dell Inspiron 15,Electronics,58799,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+575,Asus TUF Gaming F15,Electronics,60899,4.5,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+576,Asus ROG Zephyrus G14,Electronics,140799,4.5,Quality: Certified | Warranty: 1 Year
+577,Lenovo IdeaPad Slim 3,Electronics,36700,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+578,Canon Pixma G3000 Printer,Electronics,68600,4.5,Quality: Certified | Warranty: 1 Year
+579,"Sony Bravia 55"" 4K TV",Electronics,109999,4.3,Quality: Certified | Warranty: 1 Year
+580,Asus Vivobook 16X,Electronics,42700,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+581,HP Spectre x360,Electronics,155400,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+582,Dell XPS 13 Plus,Electronics,131499,4.8,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+583,HP Deskjet Ink Advantage,Electronics,67299,4.7,Quality: Certified | Warranty: 1 Year
+584,iPhone 13,Electronics,52299,4.1,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+585,Dell G15 Gaming,Electronics,81399,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+586,Adidas Ultraboost Light,Fashion,13300,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+587,iPhone 15 Pro,Electronics,116200,4.3,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+588,Red Tape Retro Sneakers,Fashion,1599,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+589,Asus TUF Gaming F15,Electronics,76300,4.0,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+590,Boat Airdopes 141,Electronics,1400,5.0,Quality: Certified | Warranty: 1 Year
+591,Red Tape Retro Sneakers,Fashion,2800,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+592,Galaxy S23 Ultra,Electronics,97599,4.4,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+593,Sony PlayStation 5,Electronics,51399,4.6,Quality: Certified | Warranty: 1 Year
+594,Red Tape Formal Oxfords,Fashion,2600,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+595,HP Victus Gaming,Electronics,64799,4.8,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+596,Amul Taaza Milk,Groceries,199,4.5,Quality: Certified | Warranty: 1 Year
+597,Boat Airdopes 141,Electronics,1300,4.3,Quality: Certified | Warranty: 1 Year
+598,Asus TUF Gaming F15,Electronics,61800,4.9,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+599,Canon EOS R10 Mirrorless,Electronics,67300,4.9,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+600,Nike Air Force 1,Fashion,1699,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+601,Apple AirPods Pro 2,Electronics,23900,4.3,Quality: Certified | Warranty: 1 Year
+602,HP Pavilion 15,Electronics,70899,4.7,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+603,Lenovo Legion 5 Pro,Electronics,153699,4.6,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+604,Boro Plus Body Lotion,Groceries,400,4.6,Quality: Certified | Warranty: 1 Year
+605,Tata Premium Tea,Groceries,399,4.5,Quality: Certified | Warranty: 1 Year
+606,Canon EOS R10 Mirrorless,Electronics,81999,4.7,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+607,Puma Motorsport T-Shirt,Fashion,2200,4.1,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+608,Asus Vivobook 16X,Electronics,53999,4.8,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+609,Adidas Ultraboost Light,Fashion,14999,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+610,Dettol Antiseptic Liquid,Groceries,299,4.1,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+611,Red Tape Retro Sneakers,Fashion,2700,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+612,Dell Alienware m15 R7,Electronics,160600,4.7,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+613,Dettol Liquid Handwash,Groceries,200,4.0,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+614,Sony PlayStation 5,Electronics,51800,4.1,Quality: Certified | Warranty: 1 Year
+615,Nike Dri-Fit T-Shirt,Fashion,1599,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+616,Adidas Stan Smith,Fashion,3400,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+617,Sony WH-1000XM5 Headphones,Electronics,26500,4.1,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+618,Dettol Liquid Handwash,Groceries,200,4.1,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+619,Colgate Strong Teeth Paste,Groceries,199,4.0,Quality: Certified | Warranty: 1 Year
+620,Asus TUF Gaming F15,Electronics,75800,4.6,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+621,Sony WH-1000XM5 Headphones,Electronics,28300,4.6,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+622,Adidas Stan Smith,Fashion,1600,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+623,Dettol Antiseptic Liquid,Groceries,199,4.8,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+624,Maggi 2-Minute Masala Noodles,Groceries,200,4.8,Quality: Certified | Warranty: 1 Year
+625,Maggi 2-Minute Masala Noodles,Groceries,499,4.3,Quality: Certified | Warranty: 1 Year
+626,Puma Motorsport T-Shirt,Fashion,1500,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+627,Puma Motorsport T-Shirt,Fashion,3199,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+628,Dell Inspiron 15,Electronics,56799,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+629,Galaxy Book 3,Electronics,90300,4.2,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+630,Maggi 2-Minute Masala Noodles,Groceries,300,4.9,Quality: Certified | Warranty: 1 Year
+631,Galaxy Book 3,Electronics,119000,4.7,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+632,Asus ROG Zephyrus G14,Electronics,163000,4.7,Quality: Certified | Warranty: 1 Year
+633,iPhone 14,Electronics,62200,4.2,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+634,Dettol Antiseptic Liquid,Groceries,299,4.6,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+635,Adidas Originals Track Jacket,Fashion,3499,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+636,Boat Stone 350 Speaker,Electronics,2500,4.7,Quality: Certified | Warranty: 1 Year
+637,Adidas Originals Track Jacket,Fashion,3200,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+638,HP Pavilion 15,Electronics,60800,4.9,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+639,Galaxy S23 Ultra,Electronics,110600,5.0,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+640,MacBook Pro 14,Electronics,174900,4.9,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+641,Lenovo Tab M10,Electronics,65600,5.0,Quality: Certified | Warranty: 1 Year
+642,Woodland Camel Leather Boots,Fashion,4700,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+643,HP Victus Gaming,Electronics,65000,4.0,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+644,Nike Air Force 1,Fashion,2799,5.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+645,Nike Dri-Fit T-Shirt,Fashion,1899,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+646,Nike Dri-Fit T-Shirt,Fashion,2099,5.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+647,Galaxy S21 FE,Electronics,30400,4.2,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+648,Galaxy Buds 2,Electronics,78099,4.9,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+649,Asus Zenbook S 13,Electronics,94099,4.6,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+650,Dell Alienware m15 R7,Electronics,265600,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+651,Amul Processed Cheese Block,Groceries,199,4.2,Quality: Certified | Warranty: 1 Year
+652,Sony Alpha ZV-E10,Electronics,189200,4.6,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+653,Boro Plus Antiseptic Cream,Groceries,199,4.6,Quality: Certified | Warranty: 1 Year
+654,Asus Zenbook S 13,Electronics,113299,4.9,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+655,Adidas Stan Smith,Fashion,2500,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+656,Apple AirPods Pro 2,Electronics,22499,4.7,Quality: Certified | Warranty: 1 Year
+657,HP Spectre x360,Electronics,144699,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+658,Woodland Camel Leather Boots,Fashion,5699,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+659,Colgate MaxFresh Red Gel,Groceries,399,4.2,Quality: Certified | Warranty: 1 Year
+660,Canon Pixma G3000 Printer,Electronics,54499,4.8,Quality: Certified | Warranty: 1 Year
+661,Woodland Camel Leather Boots,Fashion,3999,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+662,Red Tape Slim Fit Jeans,Fashion,2000,4.1,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+663,iPhone 13,Electronics,53700,4.8,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+664,Red Tape Slim Fit Jeans,Fashion,1899,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+665,HP Victus Gaming,Electronics,72299,4.8,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+666,Nike Air Jordan 1,Fashion,13200,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+667,Boro Plus Antiseptic Cream,Groceries,200,4.3,Quality: Certified | Warranty: 1 Year
+668,Woodland Camel Leather Boots,Fashion,4100,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+669,Apple Watch Series 9,Electronics,93699,4.9,Quality: Certified | Warranty: 1 Year
+670,Lenovo IdeaPad Slim 3,Electronics,39999,4.8,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+671,MacBook Air M1,Electronics,90799,4.1,Processor: Apple M1 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+672,Asus ROG Zephyrus G14,Electronics,184799,4.6,Quality: Certified | Warranty: 1 Year
+673,Lenovo ThinkPad X1 Carbon,Electronics,139099,4.4,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+674,Lenovo Legion 5 Pro,Electronics,140700,4.9,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+675,Galaxy Watch 6,Electronics,71699,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+676,Galaxy Watch 6,Electronics,76899,4.2,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+677,Colgate MaxFresh Red Gel,Groceries,100,4.3,Quality: Certified | Warranty: 1 Year
+678,HP Pavilion 15,Electronics,71700,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+679,Colgate Strong Teeth Paste,Groceries,199,4.8,Quality: Certified | Warranty: 1 Year
+680,Colgate Strong Teeth Paste,Groceries,199,4.7,Quality: Certified | Warranty: 1 Year
+681,Lenovo ThinkPad X1 Carbon,Electronics,132000,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+682,Boat Airdopes 141,Electronics,1099,4.6,Quality: Certified | Warranty: 1 Year
+683,Lenovo ThinkPad X1 Carbon,Electronics,92099,4.1,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+684,Woodland Casual Loafers,Fashion,5099,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+685,Apple AirPods Pro 2,Electronics,20799,4.5,Quality: Certified | Warranty: 1 Year
+686,Adidas Stan Smith,Fashion,3700,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+687,MacBook Pro 14,Electronics,206699,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+688,Sony WH-1000XM5 Headphones,Electronics,25100,4.2,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+689,Red Tape Retro Sneakers,Fashion,3999,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+690,Lenovo Legion 5 Pro,Electronics,130799,4.4,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+691,Boat Rockerz 450,Electronics,1299,4.3,Quality: Certified | Warranty: 1 Year
+692,Dettol Liquid Handwash,Groceries,200,4.0,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+693,HP Deskjet Ink Advantage,Electronics,84300,4.8,Quality: Certified | Warranty: 1 Year
+694,Tata Salt,Groceries,199,4.3,Quality: Certified | Warranty: 1 Year
+695,Dell G15 Gaming,Electronics,75100,4.5,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+696,Dell G15 Gaming,Electronics,86900,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+697,Amul Salted Butter,Groceries,399,4.3,Quality: Certified | Warranty: 1 Year
+698,Dell Inspiron 15,Electronics,47899,4.4,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+699,MacBook Air M2,Electronics,65199,4.3,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+700,HP Pavilion 15,Electronics,57499,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+701,HP Spectre x360,Electronics,133499,4.8,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+702,Boro Plus Body Lotion,Groceries,399,4.8,Quality: Certified | Warranty: 1 Year
+703,Lenovo Tab M10,Electronics,93200,4.5,Quality: Certified | Warranty: 1 Year
+704,Colgate MaxFresh Red Gel,Groceries,400,4.5,Quality: Certified | Warranty: 1 Year
+705,Amul Salted Butter,Groceries,499,4.3,Quality: Certified | Warranty: 1 Year
+706,Tata Salt,Groceries,200,4.6,Quality: Certified | Warranty: 1 Year
+707,Galaxy Z Fold 5,Electronics,130299,4.5,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+708,Red Tape Retro Sneakers,Fashion,1699,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+709,Boat Stone 350 Speaker,Electronics,1500,4.5,Quality: Certified | Warranty: 1 Year
+710,Canon EOS R10 Mirrorless,Electronics,73300,4.4,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+711,Adidas Stan Smith,Fashion,3099,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+712,Galaxy S21 FE,Electronics,30700,4.2,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+713,Woodland Camel Leather Boots,Fashion,4200,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+714,Savlon Antiseptic Liquid,Groceries,199,4.4,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+715,Boat Airdopes 141,Electronics,1199,4.3,Quality: Certified | Warranty: 1 Year
+716,Lenovo ThinkPad X1 Carbon,Electronics,96499,4.3,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+717,Boro Plus Body Lotion,Groceries,400,4.1,Quality: Certified | Warranty: 1 Year
+718,Dell G15 Gaming,Electronics,89099,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+719,Lenovo Legion 5 Pro,Electronics,127999,4.5,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+720,Apple Watch Series 9,Electronics,63200,4.6,Quality: Certified | Warranty: 1 Year
+721,Boat Rockerz 450,Electronics,1799,4.3,Quality: Certified | Warranty: 1 Year
+722,Lenovo IdeaPad Slim 3,Electronics,40799,4.5,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+723,Galaxy S21 FE,Electronics,35099,4.4,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+724,Adidas Originals Track Jacket,Fashion,2899,4.4,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+725,HP Deskjet Ink Advantage,Electronics,70900,4.7,Quality: Certified | Warranty: 1 Year
+726,Puma RS-X Sneakers,Fashion,6300,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+727,Apple AirPods Pro 2,Electronics,22499,5.0,Quality: Certified | Warranty: 1 Year
+728,Galaxy Buds 2,Electronics,71099,4.8,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+729,Dell XPS 13 Plus,Electronics,123899,4.7,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+730,Dell G15 Gaming,Electronics,67900,4.9,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+731,Tata Premium Tea,Groceries,199,4.0,Quality: Certified | Warranty: 1 Year
+732,Red Tape Formal Oxfords,Fashion,3399,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+733,Galaxy Buds 2,Electronics,89499,4.7,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+734,Canon EOS R10 Mirrorless,Electronics,72099,4.3,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+735,"Sony Bravia 55"" 4K TV",Electronics,125200,4.8,Quality: Certified | Warranty: 1 Year
+736,Boat Airdopes 141,Electronics,1100,4.5,Quality: Certified | Warranty: 1 Year
+737,Dettol Liquid Handwash,Groceries,199,4.0,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+738,MacBook Air M2,Electronics,88799,4.8,Processor: Apple M2 Chip | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+739,Asus TUF Gaming F15,Electronics,58400,4.1,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+740,Amul Taaza Milk,Groceries,399,4.2,Quality: Certified | Warranty: 1 Year
+741,Dell Inspiron 15,Electronics,48400,5.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+742,Nike Air Force 1,Fashion,3800,4.6,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+743,Colgate MaxFresh Red Gel,Groceries,299,4.9,Quality: Certified | Warranty: 1 Year
+744,Amul Processed Cheese Block,Groceries,300,4.7,Quality: Certified | Warranty: 1 Year
+745,MacBook Pro 14,Electronics,248600,4.1,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+746,HP Victus Gaming,Electronics,73600,4.5,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+747,HP Pavilion 15,Electronics,56199,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+748,Dettol Liquid Handwash,Groceries,199,4.2,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+749,Dettol Antiseptic Liquid,Groceries,200,4.0,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+750,Puma Motorsport T-Shirt,Fashion,3000,5.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+751,Galaxy S23 Ultra,Electronics,113999,4.7,Camera: 200MP Main / 100x Zoom | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+752,Lenovo Legion 5 Pro,Electronics,157599,4.6,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+753,Boat Stone 350 Speaker,Electronics,2099,4.7,Quality: Certified | Warranty: 1 Year
+754,HP Pavilion 15,Electronics,55199,4.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+755,HP Pavilion 15,Electronics,61400,4.5,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+756,Dell Alienware m15 R7,Electronics,162400,4.7,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 15.6-inch FHD
+757,Boat Stone 350 Speaker,Electronics,1699,4.1,Quality: Certified | Warranty: 1 Year
+758,Asus Vivobook 16X,Electronics,52800,4.9,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+759,Lenovo ThinkPad X1 Carbon,Electronics,146799,4.3,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+760,HP Pavilion 15,Electronics,55100,4.4,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+761,Galaxy Buds 2,Electronics,82299,4.6,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+762,Colgate Strong Teeth Paste,Groceries,0,4.4,Quality: Certified | Warranty: 1 Year
+763,Boro Plus Antiseptic Cream,Groceries,299,4.5,Quality: Certified | Warranty: 1 Year
+764,Colgate MaxFresh Red Gel,Groceries,200,4.8,Quality: Certified | Warranty: 1 Year
+765,Sony Alpha ZV-E10,Electronics,209700,4.2,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+766,Colgate Strong Teeth Paste,Groceries,100,4.5,Quality: Certified | Warranty: 1 Year
+767,HP Deskjet Ink Advantage,Electronics,63399,4.6,Quality: Certified | Warranty: 1 Year
+768,Canon EOS 1500D DSLR,Electronics,36000,4.8,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+769,Colgate MaxFresh Red Gel,Groceries,399,4.9,Quality: Certified | Warranty: 1 Year
+770,Boro Plus Antiseptic Cream,Groceries,299,4.2,Quality: Certified | Warranty: 1 Year
+771,Lenovo Tab M10,Electronics,93299,4.3,Quality: Certified | Warranty: 1 Year
+772,iPhone 13,Electronics,48000,4.8,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+773,Dell G15 Gaming,Electronics,85699,4.8,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+774,Lenovo Legion 5 Pro,Electronics,159199,4.0,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 1TB SSD | Display: 16-inch 165Hz
+775,Asus TUF Gaming F15,Electronics,59100,4.0,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+776,Amul Processed Cheese Block,Groceries,200,4.1,Quality: Certified | Warranty: 1 Year
+777,Nike Air Force 1,Fashion,2899,4.1,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+778,Puma RS-X Sneakers,Fashion,6899,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+779,Dettol Liquid Handwash,Groceries,299,4.6,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+780,Dell Inspiron 15,Electronics,57299,4.6,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+781,Woodland Casual Loafers,Fashion,5999,4.2,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+782,Maggi 2-Minute Masala Noodles,Groceries,399,4.6,Quality: Certified | Warranty: 1 Year
+783,Amul Processed Cheese Block,Groceries,499,4.2,Quality: Certified | Warranty: 1 Year
+784,Boat Stone 350 Speaker,Electronics,2400,4.6,Quality: Certified | Warranty: 1 Year
+785,Sony WH-1000XM5 Headphones,Electronics,28800,4.4,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+786,Woodland Casual Loafers,Fashion,4199,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+787,Dettol Antiseptic Liquid,Groceries,199,4.5,Type: Antiseptic Liquid | Volume: 500ml | Action: Disinfectant | Usage: Multi-Purpose
+788,Tata Salt,Groceries,200,4.9,Quality: Certified | Warranty: 1 Year
+789,Nike Air Jordan 1,Fashion,16999,4.5,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+790,iPhone 15 Pro,Electronics,103500,4.4,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+791,Woodland Camel Leather Boots,Fashion,5099,4.7,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+792,Galaxy Book 3,Electronics,91600,4.9,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+793,Boat Airdopes 141,Electronics,1200,4.5,Quality: Certified | Warranty: 1 Year
+794,iPhone 15 Pro,Electronics,120899,4.2,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+795,Tata Salt,Groceries,400,4.1,Quality: Certified | Warranty: 1 Year
+796,Canon EOS 1500D DSLR,Electronics,38099,4.5,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+797,HP Victus Gaming,Electronics,77200,4.9,Processor: Ryzen 7 5800H | 16GB RAM | 512GB SSD | Display: 16-inch 165Hz
+798,Canon EOS 1500D DSLR,Electronics,37900,4.7,Sensor: APS-C/Full Frame | Video: 4K | Lens: Kit Lens Included | Conn: WiFi
+799,Galaxy Watch 6,Electronics,77800,4.8,Camera: 50MP Main | Chip: Snapdragon 8 Gen 2 | Battery: 5000mAh | 5G Supported
+800,Sony Alpha a7M4 Camera,Electronics,221299,4.8,Sensor: Full Frame CMOS | Video: 4K 60p | Focus: Real-time Eye AF | Conn: WiFi/NFC
+801,Boat Stone 350 Speaker,Electronics,2099,4.8,Quality: Certified | Warranty: 1 Year
+802,iPhone 13,Electronics,53399,4.2,Camera: 50MP Main | Chip: A16 Bionic | Battery: 5000mAh | 5G Supported
+803,Nike Dri-Fit T-Shirt,Fashion,3299,4.3,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+804,Nike Dri-Fit T-Shirt,Fashion,1799,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+805,Apple AirPods Pro 2,Electronics,18200,4.6,Quality: Certified | Warranty: 1 Year
+806,Lenovo IdeaPad Slim 3,Electronics,55700,4.2,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+807,Maggi 2-Minute Masala Noodles,Groceries,200,4.1,Quality: Certified | Warranty: 1 Year
+808,Sony WH-1000XM5 Headphones,Electronics,28299,4.8,ANC: Best-in-Class Noise Cancellation | Battery: 30 Hours | Driver: 40mm | Conn: Bluetooth 5.3
+809,Amul Taaza Milk,Groceries,199,4.3,Quality: Certified | Warranty: 1 Year
+810,Apple Watch Series 9,Electronics,78499,4.4,Quality: Certified | Warranty: 1 Year
+811,Woodland Camel Leather Boots,Fashion,5300,4.8,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+812,Canon Pixma G3000 Printer,Electronics,78099,4.7,Quality: Certified | Warranty: 1 Year
+813,Boat Rockerz 450,Electronics,2199,4.1,Quality: Certified | Warranty: 1 Year
+814,HP Deskjet Ink Advantage,Electronics,72000,4.8,Quality: Certified | Warranty: 1 Year
+815,Savlon Moisturizing Soap,Groceries,0,4.1,Type: Antiseptic Liquid | Volume: 1000ml | Action: Kills 99.9% Germs | Usage: First Aid
+816,Boat Airdopes 141,Electronics,1400,4.7,Quality: Certified | Warranty: 1 Year
+817,HP Spectre x360,Electronics,139000,4.3,Processor: Intel i7 13th Gen / M2 Pro | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+818,Asus Vivobook 16X,Electronics,46400,4.5,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+819,Amul Processed Cheese Block,Groceries,199,4.6,Quality: Certified | Warranty: 1 Year
+820,Red Tape Formal Oxfords,Fashion,3999,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+821,Boat Rockerz 450,Electronics,1999,4.9,Quality: Certified | Warranty: 1 Year
+822,Amul Taaza Milk,Groceries,400,4.3,Quality: Certified | Warranty: 1 Year
+823,Boro Plus Body Lotion,Groceries,100,4.8,Quality: Certified | Warranty: 1 Year
+824,Nike Air Jordan 1,Fashion,12199,4.0,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+825,Amul Processed Cheese Block,Groceries,100,4.5,Quality: Certified | Warranty: 1 Year
+826,Lenovo ThinkPad X1 Carbon,Electronics,137600,4.0,Processor: Intel i5 12th Gen | 16GB RAM | 512GB SSD | Display: 15.6-inch FHD
+827,Red Tape Formal Oxfords,Fashion,1599,4.9,Material: Premium Fabric/Leather | Fit: Regular Fit | Quality: High | Wash: Machine Wash
+828,Sony PlayStation 5,Electronics,48600,4.5,Quality: Certified | Warranty: 1 Year
