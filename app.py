@@ -139,4 +139,4 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue"), title="AI Product Exper
 
 if __name__ == "__main__":
     import os
-    demo.launch(server_name="0.0.0.0", server_port=int(os.getenv("PORT", 7860)), share=True)
+    demo.launch(server_name="0.0.0.0", server_port=int(os.getenv("PORT", 7860)))
