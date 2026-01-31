@@ -13,3 +13,4 @@ frontend/.next/
 frontend/out/
 backend/__pycache__/
 *.db-journal
+*.sql

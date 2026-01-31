@@ -133,9 +133,6 @@ def search_products(query, min_price, max_price, category):
         if conn: conn.close()
 
 # --- ENDPOINTS ---
-@app.get("/")
-def home():
-    return {"status": "Online", "message": "AI Search API is running"}
 
 @app.post("/search")
 def api_search(request: SearchRequest):

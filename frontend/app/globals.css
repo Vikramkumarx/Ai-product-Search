@@ -6,6 +6,7 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-border: var(--border);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
   --radius-2xl: 1rem;
@@ -37,6 +38,7 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground selection:bg-indigo-100 selection:text-indigo-900;
   }
@@ -46,15 +48,19 @@
   .glass {
     @apply bg-white/70 backdrop-blur-md border border-white/20;
   }
+
   .glass-dark {
     @apply bg-slate-900/50 backdrop-blur-md border border-slate-800/50;
   }
+
   .gradient-text {
     @apply bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-violet-600;
   }
+
   .premium-shadow {
     box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
   }
+
   .premium-card-hover {
     @apply transition-all duration-300 hover:shadow-2xl hover:shadow-indigo-500/10 hover:-translate-y-1;
   }
